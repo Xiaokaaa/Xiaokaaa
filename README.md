@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Xiaokaaa~
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?Xiaokaaa=all-smile&show_icons=true&theme=tokyonight)
+
 
 - 🚀 I use daily:
    [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
