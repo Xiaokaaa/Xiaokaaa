@@ -4,8 +4,8 @@
 
 - 🚀 I use daily:
    [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
-- 
 
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Xiaokaaa/count.svg)](https://blog.i-Xiaokaaa.space/) visitor, Thank You!🎉🎉
 
 <!--
 **Xiaokaaa/Xiaokaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
