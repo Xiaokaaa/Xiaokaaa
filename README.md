@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?Xiaokaaa=all-smile&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Xiaokaaa=all-smile&layout=compact&theme=tokyonight)
+
 <!--
 **Xiaokaaa/Xiaokaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
