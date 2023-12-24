@@ -3,9 +3,7 @@
 
 
 - 🚀 I use daily:
-  ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- 💻 I work using:
-  ![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)
+  ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) ![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000) ![OpenSSL](https://img.shields.io/badge/-OpenSSL-721412?style=plastic&logo=openssl)
   
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Xiaokaaa/count.svg)](https://blog.i-Xiaokaaa.space/) visitor, Thank You!🎉🎉
