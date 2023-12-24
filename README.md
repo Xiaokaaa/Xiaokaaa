@@ -8,7 +8,7 @@
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Xiaokaaa/count.svg)](https://blog.i-Xiaokaaa.space/) visitor, Thank You!🎉🎉
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokaaa&theme=flag-india)](https://github.com/Xiaokaaa/github-readme-stats) -->
-[<span><img src="https://github-readme-stats.vercel.app/api?username=Xiaokaaa&count_private=true&show_icons=true" height=145/></span>](https://blog.Xiaokaaa.space/)
+[<span><img src="https://github-readme-stats.vercel.app/api?username=Xiaokaaa&count_private=true&show_icons=true" height=145/></span>]
 <!--
 **Xiaokaaa/Xiaokaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
