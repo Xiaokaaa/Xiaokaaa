@@ -16,14 +16,16 @@
 #### 🌱 I’m currently learning
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) ![OpenSSL Badge](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&style=flar) ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Xiaokaaa/count.svg)](https://blog.i-Xiaokaaa.space/) visitor, Thank You!🎉🎉
-<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=Xiaokaaa-1&theme=calm&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameXiaokaaa-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Xiaokaaa/count.svg)]() visitor, Thank You!🎉🎉
 
-<div>
-    <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=Xiaokaaa&theme=calm&show_icons=true" />
-    <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokaaa&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
-</div>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokaaa&layout=compact&langs_count=8&theme=cobalt)](https://github.com/Xiaokaaa/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Xiaokaaa&show_icons=true&theme=cobalt)](https://github.com/Xiaokaaa/github-readme-stats)-->
+
+<div align="left">
+<img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokaaa&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='150' src="https://github-readme-stats.vercel.app/api?username=Xiaokaaa&show_icons=true&theme=cobalt" align="center" />
+</div> 
 
 
 <!--
