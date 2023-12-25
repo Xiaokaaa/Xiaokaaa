@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Xiaokaaa~</h1>
 
-<div style="text-align: center;">
+<div align="center">
   <a href="mailto:1756256417@qq.com">
     <img src="https://img.shields.io/badge/QQ%20Mail-000000?logo=tencent-qq&logoColor=white" alt="QQ 邮箱" />
   </a>
