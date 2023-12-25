@@ -21,8 +21,8 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Xiaokaaa
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameXiaokaaa-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Xiaokaaa&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokaaa&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+    <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=Xiaokaaa&theme=calm&show_icons=true" />
+    <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokaaa&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
 </div>
 
 
